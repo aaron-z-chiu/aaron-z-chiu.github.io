@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zecheng QIU is currently pursuing a Bachelor of Science degree in Computer Science at the [School of Computer Science and Engineering (SCSE)](https://fie.must.edu.mo/page/id-1434.html?locale=en_US), [Faculty of Innovation Engineering (F.I.E.)](https://fie.must.edu.mo), [Macau University of Science and Technology (M.U.S.T.)](https://www.must.edu.mo/index.html?locale=en_US).
+Zecheng QIU is currently pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html) degree in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology ](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.).
 
 
 Research Interest
