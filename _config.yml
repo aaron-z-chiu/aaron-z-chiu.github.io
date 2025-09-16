@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-1123-2986"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Zecheng-Qiu-2?ev=hdr_xprf"# URL
   scopus           : # URL
 
   # Repositories and software development
