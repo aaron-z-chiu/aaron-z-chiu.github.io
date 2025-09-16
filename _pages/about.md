@@ -15,7 +15,7 @@ Research Interest
 
 Artificial Intelligence and Data Science
 ------
-* Data Visualization (specifically Text-to-Visualization) 
+* Data Visualization
 * Natural Language Processing (NLP) 
 * Text-to-SQL / Text-to-Visualization
 * Trajectory Data Analysis
