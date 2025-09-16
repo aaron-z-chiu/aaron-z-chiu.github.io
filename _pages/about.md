@@ -31,7 +31,7 @@ Computational Science and Engineering
 Contact Information
 ======
 
-* Email:
+* **Email**:
   * Personal Email: [aaron.z.chiu@gmail.com](aaron.z.chiu@gmail.com)
   * University Email: [zechengq@student.must.edu.mo](zechengq@student.must.edu.mo)
-* Others: For privacy and security purposes, my direct contact information, such as my **telephone number** and **postal address**, is provided upon request. Please contact me by email at any listed addresses for this information.
+* **Others**: For privacy and security purposes, my direct contact information, such as my **telephone number** and **postal address**, is provided upon request. Please contact me by email at any listed addresses for this information.
