@@ -10,7 +10,7 @@ location: "Macau S.A.R."
 
 Prof. Victor Junqiu Wei's research interests span spatial-temporal data management, graph data analytics, random sampling, AI for database management.
 
-Here, Qiu has been participating in 1 research project, his researches are mainly focused on **Trajectory Data Analysis** and **Text-to-Visualization**.
+Here, Qiu has been participating in 1 research project, his research is mainly focused on **Trajectory Data Analysis** and **Text-to-Visualization**.
 
 Relevant URLs:
 * [Prof. Wei's personal homepage](https://sites.google.com/view/victor-junqiu-wei)
