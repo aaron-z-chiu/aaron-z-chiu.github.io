@@ -41,7 +41,7 @@ Internship
 
 Awards & Scholarship
 ======
-* Sep. 2025: 2024-2025 Academic Year [Dean’s Honor List](https://stud.must.edu.mo/page/id-3773.html?locale=en_US) of Faculty of Innovation Engineering, M.U.S.T
+* Sep. 2025: 2024-2025 [Dean’s Honor List](https://stud.must.edu.mo/page/id-3773.html?locale=en_US) of Faculty of Innovation Engineering, M.U.S.T
 * Sep. 2023-present: [Entrance Scholarships](https://ugadmissions.must.edu.mo/page/id-1312.html?locale=en_US) (Outstanding) 
 
   
