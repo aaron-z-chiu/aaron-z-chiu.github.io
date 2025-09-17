@@ -24,7 +24,7 @@ Artificial Intelligence and Data Science
 Computational Science and Engineering
 ------
 * Computational Fluid Dynamics (CFD) 
-* Numerical Simulation & Modeling
+* Numerical Modeling & Simulation
 * Biological Modeling & Simulation
 * Phase-Field Modeling
 
