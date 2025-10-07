@@ -11,9 +11,9 @@ redirect_from:
 
 PDF version: &nbsp;
 <a href="../documents/Zecheng_ QIU_CV.pdf">English</a> 
-&nbsp;/&nbsp;
+&nbsp;|&nbsp;
 <a href="../documents/仇泽程简历.pdf">Simplified Chinese (简体中文)</a>
-&nbsp;/&nbsp;
+&nbsp;|&nbsp;
 <a href="../documents/仇澤程履歷.pdf">Traditional Chinese (繁體中文)</a>
 
 Education
