@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+This page has been **disabled**, please return to the [homepage](zecqiu.com)
+
+<!-- {% include base_path %}
 
 PDF version: &nbsp;
 <a href="../documents/Zecheng_ QIU_CV.pdf">English</a> 
@@ -56,7 +58,7 @@ Languages
 IT Skills
 ------
 * Coding Language: C, C++, Python, SQL, Markdown, LaTeX, HTML, Javascript, CSS, RISC-V Assembly
-* Technologies: Visual Studio Code, MATLAB, Makefile, PyCharm, Microsoft Office, WPS
+* Technologies: Visual Studio Code, MATLAB, Makefile, PyCharm, Microsoft Office, WPS -->
 
 <!-- Publications
 ======
@@ -74,7 +76,7 @@ IT Skills
 
 
 
-Exra-Curricular Courses
+<!-- Exra-Curricular Courses
 ======
 
 AI Engineer: Gen-AI and Virtual Worlds 
@@ -91,5 +93,5 @@ AI Engineer: Gen-AI and Virtual Worlds
 Membership
 ======
 * [Institute of Electrical and Electronics Engineers](https://www.ieee.org) (IEEE): Student Member
-* [China Society of Image and Graphics](https://en.csig.org.cn/index.html): Student Member
+* [China Society of Image and Graphics](https://en.csig.org.cn/index.html): Student Member -->
 
