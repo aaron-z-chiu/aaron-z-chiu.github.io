@@ -8,7 +8,7 @@ date: 2024-02-01
 location: "Macau S.A.R."
 ---
 
-PF_CFD Team is led by Prof. Junxiang Yang, which aims to develop high-performance mathematical models and computational algorithms in science and engineering. 
+The PF_CFD Team is led by Prof. Junxiang Yang, an assistant professor at M.U.S.T. The team aims to develop high-performance mathematical models and computational algorithms in science and engineering.
 
 Here, Qiu has been participating in 2 research projects, his researches are mainly focused on **Biological Modeling & Simulation** and **Phase-field Method**.
 

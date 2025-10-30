@@ -8,7 +8,7 @@ date: 2025-03-01
 location: "Macau S.A.R."
 ---
 
-Prof. Victor Junqiu Wei's team is mainly focused on span spatial-temporal data management, graph data analytics, random sampling, AI for database management.
+Prof. Victor Junqiu Wei, an assistant professor at M.U.S.T., leads a team mainly focused on span spatial-temporal data management, graph data analytics, random sampling, and AI for database management.
 
 Here, Qiu has been participating in 1 research project, his research is mainly focused on **Trajectory Data Analysis** and **Text-to-Visualization**.
 
