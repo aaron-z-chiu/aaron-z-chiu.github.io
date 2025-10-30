@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Forbidden"
 permalink: /cv/
 author_profile: true
 redirect_from:
