@@ -7,16 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Zecheng QIU is currently pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) degree in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology ](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). His name is also written as Aaron Chiu, 仇泽程 and 仇澤程.
-
-His email addresses are [aaron.z.chiu@gmail.com](aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](zechengq@student.must.edu.mo).
+Zecheng QIU (仇泽程/仇澤程/Aaron Chiu) is currently pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) degree in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology ](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). His email addresses are [aaron.z.chiu@gmail.com](aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](zechengq@student.must.edu.mo).
 
 His research interest includes: Data Visualization, Natural Language Processing (NLP), Text-to-SQL / Text-to-Visualization, Trajectory Data Analysis.
-
-
-
-
-{% include base_path %}
 
 PDF version of CV: &nbsp;
 <a href="../documents/Zecheng_ QIU_CV.pdf">English</a> 
@@ -24,6 +17,11 @@ PDF version of CV: &nbsp;
 <a href="../documents/仇泽程简历.pdf">Simplified Chinese (简体中文)</a>
 &nbsp;|&nbsp;
 <a href="../documents/仇澤程履歷.pdf">Traditional Chinese (繁體中文)</a>
+
+
+{% include base_path %}
+
+
 
 Education
 ======
@@ -46,15 +44,11 @@ Affiliated Research Teams
 Internship
 ======
 
-[CoCreative](https://www.cncsys.com.cn) Information Technology (Shenyang) Co., Ltd
-------
-* Jun. 1 - Aug. 30, 2025
-* Java Software Engineer
-* Shenyang, Liaoning Province, P.R.China
-* Duties includes: 
-  * Developed and maintained software functions using Java and JavaWeb technologies.
-  * Performed SQL query optimization and project performance optimization.
-  * Wrote code and contributed to the development of company software projects.
+  <ul>{% for post in site.posts reversed %}
+    {% include archive-single-intern-cv.html  %}
+  {% endfor %}</ul> 
+
+
 
   
 Skills
