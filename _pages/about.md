@@ -9,14 +9,16 @@ redirect_from:
 
 Zecheng QIU is currently pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) degree in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology ](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). His name is also written as Aaron Chiu, 仇泽程 and 仇澤程.
 
-His research interest includes: Data Visualization, Natural Language Processing (NLP), Text-to-SQL / Text-to-Visualization, Trajectory Data Analysis
+His email addresses are [aaron.z.chiu@gmail.com](aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](zechengq@student.must.edu.mo).
+
+His research interest includes: Data Visualization, Natural Language Processing (NLP), Text-to-SQL / Text-to-Visualization, Trajectory Data Analysis.
 
 
 
 
 {% include base_path %}
 
-PDF version: &nbsp;
+PDF version of CV: &nbsp;
 <a href="../documents/Zecheng_ QIU_CV.pdf">English</a> 
 &nbsp;|&nbsp;
 <a href="../documents/仇泽程简历.pdf">Simplified Chinese (简体中文)</a>
@@ -25,7 +27,15 @@ PDF version: &nbsp;
 
 Education
 ======
-* [BSc.](https://fie.must.edu.mo/id-1439/program/view/id-211.html) in Computer Science, [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US), 2026 (Expected)
+* [BSc.](https://fie.must.edu.mo/id-1439/program/view/id-211.html) in Computer Science, [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US)
+  * Achieved a CGPA of 3.73 (about top 5%), and 3.85 at academic year 2024-2025 (about top 3%).
+  * Selected Grade: Object-Oriented Programming (A+), Web Technologies (A+), Digital Logic (A+), Physics (A+), Probabilities and Statistics (A+), Data Structures (A), Calculus Ⅲ (A-), Computer Organization (A-)
+  * Expected Date of Completion: August 2027
+
+Awards & Scholarship
+======
+* Sep. 2025: 2024-2025 [Dean’s Honor List](https://stud.must.edu.mo/page/id-3773.html?locale=en_US) of Faculty of Innovation Engineering, M.U.S.T
+* Sep. 2023-present: [Entrance Scholarships](https://ugadmissions.must.edu.mo/page/id-1312.html?locale=en_US) (Outstanding) 
 
 Affiliated Research Teams
 ======
@@ -45,11 +55,6 @@ Internship
   * Developed and maintained software functions using Java and JavaWeb technologies.
   * Performed SQL query optimization and project performance optimization.
   * Wrote code and contributed to the development of company software projects.
-
-Awards & Scholarship
-======
-* Sep. 2025: 2024-2025 [Dean’s Honor List](https://stud.must.edu.mo/page/id-3773.html?locale=en_US) of Faculty of Innovation Engineering, M.U.S.T
-* Sep. 2023-present: [Entrance Scholarships](https://ugadmissions.must.edu.mo/page/id-1312.html?locale=en_US) (Outstanding) 
 
   
 Skills
@@ -100,10 +105,3 @@ Membership
 * [Institute of Electrical and Electronics Engineers](https://www.ieee.org) (IEEE): Student Member
 * [China Society of Image and Graphics](https://en.csig.org.cn/index.html): Student Member
 
-Contact Information
-======
-
-* **Email**:
-  * Personal Email: [aaron.z.chiu@gmail.com](aaron.z.chiu@gmail.com)
-  * University Email: [zechengq@student.must.edu.mo](zechengq@student.must.edu.mo)
-* **Others**: For privacy and security purposes, my sensitive contact information, such as my TEL and postal address, is provided upon request. Please contact me by email at any listed addresses for this information.
