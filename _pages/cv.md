@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-This page has been **disabled**, please return to the [homepage](zecqiu.com)
+This page has been **disabled**, please return to the [homepage](zecqiu.com).
 
 <!-- {% include base_path %}
 
