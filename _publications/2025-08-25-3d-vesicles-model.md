@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-08-25-3d-vesicles-model
 excerpt: 'This paper proposes a three-dimensional multi-phase-field model for vesicles and a practical finite difference solver.'
 date: 2025-08-25
-venue: 'Computer Physics Communications (Under Review)'
+venue: 'Submitted to Computer Physics Communications (Under Review)'
 # slidesurl: ''
 # paperurl: ''
 codeurl: 'https://github.com/aaron-z-chiu/multiple-vesicles'
