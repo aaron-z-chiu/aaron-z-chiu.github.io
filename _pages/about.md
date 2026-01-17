@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Aaron Zecheng QIU (仇泽程 / 仇澤程 ) is currently pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) degree in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology ](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). His email addresses are [aaron.z.chiu@gmail.com](aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](zechengq@student.must.edu.mo).
+Zecheng QIU (Aaron / 仇泽程 / 仇澤程) is an undergraduate student pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). He expects to graduate in August 2027.
 
-His research interest includes: Data Visualization, Natural Language Processing (NLP), Text-to-SQL / Text-to-Visualization, Trajectory Data Analysis.
+Currently, he serves as a Research Assistant in the **Research Group of Prof. Victor Junqiu Wei** and the **PF-CFD Team** led by **Prof. Junxiang Yang**. His research interests primarily lie in the intersection of **Data Visualization**, **Natural Language Processing (NLP)**, and **Scientific Computing**, with a specific focus on:
+* Text-to-SQL / Text-to-Visualization
+* Trajectory Data Analysis
+* Biological Modeling & Simulation
 
-PDF version of CV: &nbsp;
+His email addresses are [aaron.z.chiu@gmail.com](mailto:aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](mailto:zechengq@student.must.edu.mo).
+
+**Curriculum Vitae:** &nbsp;
 <a href="../documents/Zecheng_ QIU_CV.pdf">English</a> 
 &nbsp;|&nbsp;
 <a href="../documents/仇泽程简历.pdf">Simplified Chinese (简体中文)</a>
@@ -21,30 +26,30 @@ PDF version of CV: &nbsp;
 
 {% include base_path %}
 
-
-
 Education
 ======
-* [BSc.](https://fie.must.edu.mo/id-1439/program/view/id-211.html) in Computer Science, [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US)
-  * Achieved a CGPA of 3.73 (about top 5%), and 3.85 at academic year 2024-2025 (about top 3%).
-  * Selected Grade: Object-Oriented Programming (A+), Web Technologies (A+), Digital Logic (A+), Physics (A+), Probabilities and Statistics (A+), Data Structures (A), Calculus Ⅲ (A-), Computer Organization (A-)
-  * Expected Date of Completion: August 2027
+* **[BSc.](https://fie.must.edu.mo/id-1439/program/view/id-211.html) in Computer Science**, [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) (Sep. 2023 - Present)
+  * **CGPA:** 3.73 / 4.00 (Top 5%)
+  * **2024-2025 GPA:** 3.85 / 4.00 (Rank: 14/429)
+  * **Selected Coursework:** Object-Oriented Programming (A+), Web Technologies (A+), Digital Logic (A+), Physics (A+), Probabilities and Statistics (A+), Data Structures (A), Calculus Ⅲ (A-), Computer Organization (A-).
 
-Awards & Scholarship
-======
-* Sep. 2025: 2024-2025 [Dean’s Honor List](https://stud.must.edu.mo/page/id-3773.html?locale=en_US) of Faculty of Innovation Engineering, M.U.S.T
-* Sep. 2023-present: [Entrance Scholarships](https://ugadmissions.must.edu.mo/page/id-1312.html?locale=en_US) (Outstanding) 
-
-Affiliated Research Teams
+Research Experience
 ======
 
-* [Prof. Victor Junqiu Wei’s Team](https://zecqiu.com/research/JQWei)
-  * Trajectory Data Analysis
-  * Text-to-Visualization
+**Research Group of Prof. Victor Junqiu Wei** | *Research Assistant* *Mar. 2025 – Present*
 
-* [PF-CFD Team](https://zecqiu.com/research/JXYang)
-  * Biological Modeling & Simulation
-  * Phase-field Method
+Focused on **Conversational Text-to-Trajectory Visualization (Text2Traj)** using Large Language Models (LLMs) and Spatial Databases.
+* **System Development:** Developed a dialogue-centric visualization system on **PostgreSQL** and **PostGIS**, integrating Text-to-SQL paradigms to process complex spatio-temporal queries.
+* **Semantic Reasoning:** Implemented an LLM-based semantic reasoning layer to autonomously detect and resolve query ambiguities (e.g., spatial granularity conflicts, underspecified visualization types) and identify unanswerable requests.
+* **Benchmark Construction:** Constructed a large-scale benchmark dataset containing adversarial examples to evaluate the robustness of LLMs in handling spatial constraints and administrative boundary logic.
+
+**PF-CFD Team (Prof. Junxiang Yang)** | *Research Assistant* *Feb. 2024 – Present*
+
+Focused on **Multi-Phase-Field Vesicle Simulation** and **Biological Modeling** using Numerical Methods.
+* **Numerical Solver Implementation:** Implemented a hybrid numerical solver for 3D fluid vesicle dynamics in **C++**, integrating phase-field models into an existing simulation framework.
+* **Algorithm Optimization:** Applied a semi-implicit finite difference scheme to evolve phase-field equations, ensuring rigorous numerical stability and energy conservation.
+* **3D Tissue Growth Simulation:** Developed a 3D numerical simulation framework using **C++** and **MATLAB** to model curvature-dependent tissue growth on complex bio-scaffolds.
+* **Solver Enhancement:** Engineered an **Alternating Direction Implicit (ADI)** solver with second-order temporal accuracy to ensure unconditional numerical stability.
 
 Publications
 ======
@@ -52,57 +57,43 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Academic Services
+======
+* **External Reviewer**, IEEE International Conference on Data Engineering (ICDE) 2026.
+    * Review submissions related to DB4AI and LLM Agent Memory Systems.
+* **Student Representative**, HKIE Accreditation Interview Panel.
+    * Supported the validation of the BSc in Computer Science program during the accreditation interview.
+
 Internship
 ======
-
   <ul>{% for post in site.posts reversed %}
     {% include archive-single-intern-cv.html  %}
   {% endfor %}</ul> 
 
+Awards & Scholarship
+======
+* **Dean’s Honor List** (2024-2025), Faculty of Innovation Engineering, M.U.S.T.
+* **Entrance Scholarships** (Outstanding Category) (Sep. 2023 - Present).
 
-
-  
 Skills
 ======
 
-Languages
-------
-  * English (Full Professional Proficiency): IELTS (7.0)
-  * Mandarin (Native Proficiency): National Putonghua Proficiency Test 2-A
+**Languages**
+* **English:** Full Professional Proficiency (IELTS 7.0)
+* **Mandarin:** Native Proficiency (National Putonghua Proficiency Test 2-A)
 
-IT Skills
-------
-* Coding Language: C, C++, Python, SQL, Markdown, LaTeX, HTML, Javascript, CSS, RISC-V Assembly
-* Technologies: Visual Studio Code, MATLAB, Makefile, PyCharm, Microsoft Office, WPS
+**Technical Skills**
+* **Programming:** C/C++ (High Proficiency), Python, SQL (PostgreSQL), Java, RISC-V Assembly, HTML/CSS/JS.
+* **Tools & Frameworks:** PyTorch, PostGIS, MATLAB, Docker, Linux, Git, LaTeX, Visual Studio Code.
 
-
-  
-
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-  
-
-
-
-Exra-Curricular Courses
+Extracurricular Courses
 ======
 
-AI Engineer: Gen-AI and Virtual Worlds 
-------
-* Jul. 8-18, 2024
-* [The University of Hong Kong Summer Institute](https://www.summerinstitute.hku.hk)
-* Hong Kong S.A.R.
-* Main Content: 
-  * AI Potential and Tools for development.
-  * Development of AI Model.
-  * Practical case studies for AI technologies.
-  * 3D World and Creation.
+**AI Engineer: Gen-AI and Virtual Worlds**
+* *The University of Hong Kong Summer Institute* | July 2024
+* Covered AI potential, model development, and practical case studies for AI technologies in 3D worlds.
   
 Membership
 ======
 * [Institute of Electrical and Electronics Engineers](https://www.ieee.org) (IEEE): Student Member
 * [China Society of Image and Graphics](https://en.csig.org.cn/index.html): Student Member
-
