@@ -90,8 +90,8 @@ Skills
 Extracurricular Courses
 ======
 
-**AI Engineer: Gen-AI and Virtual Worlds**
-* *The University of Hong Kong Summer Institute* | July 2024
+### AI Engineer: Gen-AI and Virtual Worlds
+*The University of Hong Kong Summer Institute* (July 2024)
 * Covered AI potential, model development, and practical case studies for AI technologies in 3D worlds.
   
 Membership
