@@ -1,14 +1,16 @@
 ---
-title: "To be updated"
+title: "A three-dimensional multi-phase-field vesicles model and its practical finite difference solver"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'To be updated, all the links are meaningless, please do not click on it. The author is not responsible for any possible malware or computer virus included in it.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-01-18-3d-vesicles-model
+excerpt: 'This paper proposes a three-dimensional multi-phase-field model for vesicles and a practical finite difference solver. Submitted to Computer Physics Communications (CPC).'
+date: 2026-08-25
+venue: 'Computer Physics Communications (Under Review)'
+slidesurl: ''
+paperurl: ''
+citation: 'Y. Wu, **Z. Qiu,** J. Yang. (Under Review). &quot;A three-dimensional multi-phase-field vesicles model and its practical finite difference solver.&quot; <i>Submitted to Computer Physics Communications (CPC)</i>.'
 ---
 
-To be updated, all the links are meaningless, please do not click on it. The author is not responsible for any possible malware or computer virus included in it.
+(Here is the abstract of your paper. You can paste your abstract here to replace this text.)
+
+This paper presents a three-dimensional multi-phase-field vesicles model and discusses its practical finite difference solver. It is currently under review at Computer Physics Communications (CPC).

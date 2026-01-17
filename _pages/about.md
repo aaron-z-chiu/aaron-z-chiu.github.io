@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zecheng QIU (仇泽程 / 仇澤程 / Aaron Chiu) is currently pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) degree in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology ](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). His email addresses are [aaron.z.chiu@gmail.com](aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](zechengq@student.must.edu.mo).
+Aaron Zecheng QIU (仇泽程 / 仇澤程 ) is currently pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) degree in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology ](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). His email addresses are [aaron.z.chiu@gmail.com](aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](zechengq@student.must.edu.mo).
 
 His research interest includes: Data Visualization, Natural Language Processing (NLP), Text-to-SQL / Text-to-Visualization, Trajectory Data Analysis.
 
@@ -46,6 +46,12 @@ Affiliated Research Teams
   * Biological Modeling & Simulation
   * Phase-field Method
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Internship
 ======
 
@@ -61,19 +67,15 @@ Skills
 
 Languages
 ------
+  * English (Full Professional Proficiency): IELTS (7.0)
   * Mandarin (Native Proficiency): National Putonghua Proficiency Test 2-A
-  * English (Full Professional Proficiency): IELTS (7.0), CET-4 (598)
 
 IT Skills
 ------
 * Coding Language: C, C++, Python, SQL, Markdown, LaTeX, HTML, Javascript, CSS, RISC-V Assembly
 * Technologies: Visual Studio Code, MATLAB, Makefile, PyCharm, Microsoft Office, WPS
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
   
 
 <!-- Talks
