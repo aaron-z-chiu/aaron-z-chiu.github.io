@@ -16,7 +16,7 @@ His research interests primarily lie in **Data Visualization**, N**atural Langua
 His email addresses are [aaron.z.chiu@gmail.com](mailto:aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](mailto:zechengq@student.must.edu.mo).
 
 **Curriculum Vitae:** &nbsp;
-<a href="../documents/Zecheng_ QIU_CV.pdf">English</a> 
+<a href="../documents/Aaron_Zecheng_ Qiu_CV.pdf">English</a> 
 &nbsp;|&nbsp;
 <a href="../documents/仇泽程简历.pdf">Simplified Chinese (简体中文)</a>
 &nbsp;|&nbsp;
