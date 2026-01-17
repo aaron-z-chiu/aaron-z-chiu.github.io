@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Zecheng QIU (Aaron / 仇泽程 / 仇澤程) is an undergraduate student pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). He expects to graduate in August 2027.
+Aaron Zecheng Qiu (仇泽程 / 仇澤程) is an undergraduate student pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). He expects to graduate in August 2027.
 
-Currently, he serves as a Research Assistant in the **Research Group of Prof. Victor Junqiu Wei** and the **PF-CFD Team** led by **Prof. Junxiang Yang**. His research interests primarily lie in the intersection of **Data Visualization**, **Natural Language Processing (NLP)**, and **Scientific Computing**, with a specific focus on:
-* Text-to-SQL / Text-to-Visualization
-* Trajectory Data Analysis
-* Biological Modeling & Simulation
+Currently, he serves as a Research Assistant in the **Research Group of Prof. Victor Junqiu Wei** and the **PF-CFD Team** led by **Prof. Junxiang Yang**. 
+
+His research interests primarily lie in **Data Visualization**, N**atural Language Processing (NLP)**, **Text-to-SQL / Text-to-Visualization**, **Trajectory Data Analysis**.
 
 His email addresses are [aaron.z.chiu@gmail.com](mailto:aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](mailto:zechengq@student.must.edu.mo).
 
@@ -36,14 +35,16 @@ Education
 Research Experience
 ======
 
-**Research Group of Prof. Victor Junqiu Wei** | *Research Assistant* *Mar. 2025 – Present*
+### [Research Group of Prof. Victor Junqiu Wei](https://zecqiu.com/research/JQWei)
+*Research Assistant (Mar. 2025 – Present)*
 
 Focused on **Conversational Text-to-Trajectory Visualization (Text2Traj)** using Large Language Models (LLMs) and Spatial Databases.
 * **System Development:** Developed a dialogue-centric visualization system on **PostgreSQL** and **PostGIS**, integrating Text-to-SQL paradigms to process complex spatio-temporal queries.
 * **Semantic Reasoning:** Implemented an LLM-based semantic reasoning layer to autonomously detect and resolve query ambiguities (e.g., spatial granularity conflicts, underspecified visualization types) and identify unanswerable requests.
 * **Benchmark Construction:** Constructed a large-scale benchmark dataset containing adversarial examples to evaluate the robustness of LLMs in handling spatial constraints and administrative boundary logic.
 
-**PF-CFD Team (Prof. Junxiang Yang)** | *Research Assistant* *Feb. 2024 – Present*
+### [PF-CFD Team (Prof. Junxiang Yang)](https://zecqiu.com/research/JXYang)
+*Research Assistant (Feb. 2024 – Present)*
 
 Focused on **Multi-Phase-Field Vesicle Simulation** and **Biological Modeling** using Numerical Methods.
 * **Numerical Solver Implementation:** Implemented a hybrid numerical solver for 3D fluid vesicle dynamics in **C++**, integrating phase-field models into an existing simulation framework.
