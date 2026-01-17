@@ -92,7 +92,10 @@ Extracurricular Courses
 
 ### AI Engineer: Gen-AI and Virtual Worlds
 *The University of Hong Kong Summer Institute* (July 2024)
-* Covered AI potential, model development, and practical case studies for AI technologies in 3D worlds.
+* AI Potential and Tools for development.
+* Development of AI Model.
+* Practical case studies for AI technologies.
+* 3D World and Creation.
   
 Membership
 ======
