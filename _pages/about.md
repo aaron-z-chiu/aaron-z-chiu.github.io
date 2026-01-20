@@ -11,7 +11,7 @@ Aaron Zecheng Qiu (仇泽程 / 仇澤程) is an undergraduate student pursuing a
 
 Currently, he serves as a Research Assistant in the **Research Group of Prof. Victor Junqiu Wei** and the **PF-CFD Team** led by **Prof. Junxiang Yang**. 
 
-His research interests primarily lie in **Data Visualization**, N**atural Language Processing (NLP)**, **Text-to-SQL / Text-to-Visualization**, **Trajectory Data Analysis**.
+His research interests primarily lie in **Data Visualization**, **Natural Language Processing (NLP)**, **Text-to-SQL / Text-to-Visualization**, **Trajectory Data Analysis**.
 
 His email addresses are [aaron.z.chiu@gmail.com](mailto:aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](mailto:zechengq@student.must.edu.mo).
 
