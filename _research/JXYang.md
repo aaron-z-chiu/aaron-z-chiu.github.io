@@ -12,6 +12,10 @@ The PF-CFD (Phase-Field Computational Fluid Dynamics) Team is led by Prof. Junxi
 
 Here, Qiu has been participating in 2 research projects, his researches are mainly focused on **Biological Modeling & Simulation** and **Phase-field Method**.
 
+**Publications:**
+
+* Y. Wu, Z. Qiu, J. Yang. (Under Review). "A three-dimensional multi-phase-field vesicles model and its practical finite difference solver." Submitted to Computer Physics Communications (CPC).
+
 <figure style="text-align: center; margin-top: 20px;">
     <img src="../images/CFD-TeamDinner.jpg" alt="CFD Team Dinner" style="width: 100%; max-width: 800px; border-radius: 8px;">
     <figcaption style="margin-top: 8px; font-style: italic; color: #666; line-height: 1.5;">

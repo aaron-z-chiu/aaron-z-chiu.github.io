@@ -12,9 +12,6 @@ Prof. Victor Junqiu Wei, an assistant professor at M.U.S.T., leads a team mainly
 
 Here, Qiu has been participating in 1 research project, his research is mainly focused on **Trajectory Data Analysis** and **Text-to-Visualization**.
 
-**Publications:**
-
-* Y. Wu, Z. Qiu, J. Yang. (Under Review). "A three-dimensional multi-phase-field vesicles model and its practical finite difference solver." Submitted to Computer Physics Communications (CPC).
 
 <figure style="text-align: center; margin-top: 20px;">
     <img src="../images/Wei-Raymond.jpg" alt="Group Seminar" style="width: 100%; max-width: 800px; border-radius: 8px;">
