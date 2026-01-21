@@ -12,6 +12,7 @@ codeurl: 'https://github.com/aaron-z-chiu/multiple-vesicles'
 citation: 'Y. Wu, <b>Z. Qiu</b>, J. Yang. (Under Review). &quot;A three-dimensional multi-phase-field vesicles model and its practical finite difference solver.&quot; <i>Submitted to Computer Physics Communications (CPC)</i>.'
 ---
 
+<b>Authors:</b> Y. Wu, <b>Z. Qiu</b>, J. Yang
 
 This paper presents a three-dimensional multi-phase-field vesicles model and discusses its practical finite difference solver. It is currently under review at Computer Physics Communications (CPC).
 
