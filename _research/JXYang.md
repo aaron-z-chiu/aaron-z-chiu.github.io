@@ -1,5 +1,5 @@
 ---
-title: "PF-CFD Team"
+title: "PF-CFD Team (Prof. Junxiang Yang)"
 # collection: research
 type: "School of Computer Science and Engineering, Faculty of Innovation Engineering"
 permalink: /research/JXYang
@@ -14,8 +14,8 @@ Here, Qiu has been participating in 2 research projects, his researches are main
 
 <figure style="text-align: center; margin-top: 20px;">
     <img src="../images/CFD-TeamDinner.jpg" alt="CFD Team Dinner" style="width: 100%; max-width: 800px; border-radius: 8px;">
-    <figcaption style="margin-top: 8px; font-style: italic; color: #666;">
-        End-of-semester dinner with the PF-CFD research group.
+    <figcaption style="margin-top: 8px; font-style: italic; color: #666; line-height: 1.5;">
+        End-of-semester dinner with the PF-CFD research group, led by <strong>Prof. Junxiang Yang</strong> (back row, 3rd from left).
     </figcaption>
 </figure>
 
