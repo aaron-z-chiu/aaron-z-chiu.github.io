@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Forbidden"
+title: "Access Denied"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-This page has been **disabled**, please return to the [homepage](https://zecqiu.com).
+This page has been **disabled**, even `sudo` won't help you here. please return to the [homepage](https://zecqiu.com).
 
 <!-- {% include base_path %}
 
