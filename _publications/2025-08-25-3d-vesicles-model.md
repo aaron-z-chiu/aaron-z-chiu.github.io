@@ -3,7 +3,7 @@ title: "A three-dimensional multi-phase-field vesicles model and its practical f
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-25-3d-vesicles-model
-excerpt: 'This paper proposes a three-dimensional multi-phase-field model for vesicles and a practical finite difference solver.'
+excerpt: '<b>Authors:</b> Y. Wu, <b>Z. Qiu</b>, J. Yang<br>Submitted to <i>Computer Physics Communications</i> (Under Review), 2025<br><br>This paper proposes a three-dimensional multi-phase-field model...'
 date: 2025-08-25
 venue: 'Submitted to Computer Physics Communications (Under Review)'
 # slidesurl: ''
