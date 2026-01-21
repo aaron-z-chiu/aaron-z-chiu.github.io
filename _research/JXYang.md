@@ -1,5 +1,5 @@
 ---
-title: "PF_CFD Team"
+title: "PF-CFD Team"
 # collection: research
 type: "School of Computer Science and Engineering, Faculty of Innovation Engineering"
 permalink: /research/JXYang
@@ -8,9 +8,16 @@ date: 2024-02-01
 location: "Macau S.A.R."
 ---
 
-The PF_CFD Team is led by Prof. Junxiang Yang, an assistant professor at M.U.S.T. The team aims to develop high-performance mathematical models and computational algorithms in science and engineering.
+The PF-CFD (Phase-Field Computational Fluid Dynamics) Team is led by Prof. Junxiang Yang, an assistant professor at M.U.S.T. The team aims to develop high-performance mathematical models and computational algorithms in science and engineering.
 
 Here, Qiu has been participating in 2 research projects, his researches are mainly focused on **Biological Modeling & Simulation** and **Phase-field Method**.
+
+<figure style="text-align: center; margin-top: 20px;">
+    <img src="../images/CFD-TeamDinner.jpg" alt="CFD Team Dinner" style="width: 100%; max-width: 800px; border-radius: 8px;">
+    <figcaption style="margin-top: 8px; font-style: italic; color: #666;">
+        End-of-semester dinner with the PF-CFD research group.
+    </figcaption>
+</figure>
 
 Relevant URLs:
 * [PF_CFD Team's Homepage](https://cfdyang521.github.io)
