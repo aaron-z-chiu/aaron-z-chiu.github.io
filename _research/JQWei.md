@@ -12,6 +12,10 @@ Prof. Victor Junqiu Wei, an assistant professor at M.U.S.T., leads a team mainly
 
 Here, Qiu has been participating in 1 research project, his research is mainly focused on **Trajectory Data Analysis** and **Text-to-Visualization**.
 
+**Publications:**
+
+* Y. Wu, Z. Qiu, J. Yang. (Under Review). "A three-dimensional multi-phase-field vesicles model and its practical finite difference solver." Submitted to Computer Physics Communications (CPC).
+
 <figure style="text-align: center; margin-top: 20px;">
     <img src="../images/Wei-Raymond.jpg" alt="Group Seminar" style="width: 100%; max-width: 800px; border-radius: 8px;">
     <figcaption style="margin-top: 8px; font-style: italic; color: #666; line-height: 1.5;">
@@ -19,7 +23,7 @@ Here, Qiu has been participating in 1 research project, his research is mainly f
     </figcaption>
 </figure>
 
-Relevant URLs:
+**Relevant URLs:**
 * [Prof. Wei's academic homepage](https://sites.google.com/view/victor-junqiu-wei)
 * [Prof. Wei's introduction page in the M.U.S.T official website](https://fie.must.edu.mo/id-1444/person/view/id-12708.html)
 
