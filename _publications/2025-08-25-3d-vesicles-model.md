@@ -7,7 +7,7 @@ excerpt: '<b>Authors:</b> Y. Wu, <b>Z. Qiu</b>, J. Yang<br><br><i>This paper pro
 date: 2026-1-22
 venue: 'Computer Physics Communications'
 # slidesurl: ''
-# paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010465526000354'
 codeurl: 'https://github.com/aaron-z-chiu/multiple-vesicles'
 citation: 'Y. Wu, <b>Z. Qiu</b>, J. Yang, A three-dimensional multi-phase-field vesicles model and its practical finite difference solver, Comput. Phys. Commun. (2026), in press.'
 ---
