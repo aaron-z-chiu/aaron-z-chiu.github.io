@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Aaron Zecheng Qiu (仇泽程 / 仇澤程) is an undergraduate student pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). He expects to graduate in August 2027.
+Zecheng (Aaron) Qiu (仇泽程 / 仇澤程) is an undergraduate student pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). He expects to graduate in August 2027.
 
 Currently, he serves as a Research Assistant in the **Research Group of Prof. Victor Junqiu Wei** and the **PF-CFD Team** led by **Prof. Junxiang Yang**. 
 
@@ -16,11 +16,11 @@ His research interests primarily lie in **Data Visualization**, **Natural Langua
 His email addresses are [aaron.z.chiu@gmail.com](mailto:aaron.z.chiu@gmail.com) and [zechengq@student.must.edu.mo](mailto:zechengq@student.must.edu.mo).
 
 **Curriculum Vitae:** &nbsp;
-<a href="../documents/Aaron_Zecheng_ Qiu_CV.pdf">English</a> 
+<a href="../files/Zecheng(Aaron)_ Qiu_CV.pdf">English</a> 
 &nbsp;|&nbsp;
-<a href="../documents/仇泽程简历.pdf">Simplified Chinese (简体中文)</a>
+<a href="../files/仇泽程简历.pdf">Simplified Chinese (简体中文)</a>
 &nbsp;|&nbsp;
-<a href="../documents/仇澤程履歷.pdf">Traditional Chinese (繁體中文)</a>
+<a href="../files/仇澤程履歷.pdf">Traditional Chinese (繁體中文)</a>
 
 
 {% include base_path %}

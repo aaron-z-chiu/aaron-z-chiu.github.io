@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Aaron Zecheng Qiu's homepage"
+title                    : "Zecheng (Aaron) Qiu's homepage"
 title_separator          : "-"
-name                     : &name "Aaron Zecheng Qiu"
+name                     : &name "Zecheng (Aaron) Qiu"
 description              : &description "personal description"
 url                      : https://aaron-z-chiu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "aaron-z-chiu/aaron-z-chiu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Aaron Zecheng Qiu"
+  name             : "Zecheng (Aaron) Qiu"
   pronouns         : "仇泽程 / 仇澤程"  
   bio              : "Undergraduate student pursuing BSc. in Computer Science"
   location         : "Macao S.A.R."
