@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zecheng (Aaron) Qiu (仇泽程 / 仇澤程) is an undergraduate student pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). He expects to graduate in August 2027.
+**Zecheng Qiu** (Preferred Name: **Aaron**; 仇泽程 / 仇澤程) is an undergraduate student pursuing a [Bachelor of Science](https://fie.must.edu.mo/id-1439/program/view/id-211.html?locale=en_US) in Computer Science at the [School of Computer Science and Engineering](https://fie.must.edu.mo/page/id-1434.html?locale=en_US) (S.C.S.E.), [Faculty of Innovation Engineering](https://fie.must.edu.mo/index.html?locale=en_US) (F.I.E.), [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) (M.U.S.T.). He expects to graduate in August 2027.
 
 Currently, he serves as a Research Assistant in the **Research Group of Prof. Victor Junqiu Wei** and the **PF-CFD Team** led by **Prof. Junxiang Yang**. 
 
