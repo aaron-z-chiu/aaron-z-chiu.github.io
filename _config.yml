@@ -22,7 +22,7 @@ repository               : "aaron-z-chiu/aaron-z-chiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Zecheng (Aaron) Qiu"
   pronouns         : "仇泽程 / 仇澤程"  
   bio              : "Undergraduate student pursuing BSc. in Computer Science"
