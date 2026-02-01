@@ -12,7 +12,7 @@ codeurl: 'https://github.com/aaron-z-chiu/phase-field-tissue-growth'
 citation: '<b>Z. Qiu</b>, Y. Wu, J. Yang, Semi-implicit ADI operator-splitting method with Richardson extrapolation for the phase-field model of curvature-dependent tissue growth on surfaces, Submitted to Computer Methods in Applied Mechanics and Engineering (Under Review).'
 ---
 
-<b>Authors:</b> <b>Z. Qiu</b>, Y. Wu, J. Yang
+<b>Authors:</b> <b>Zecheng Qiu</b>, Yutong Wu, Junxiang Yang
 
 This paper presents a novel numerical framework for modeling curvature-dependent tissue growth on complex scaffolds. It is currently Under Review at *Computer Methods in Applied Mechanics and Engineering (CMAME)*.
 
