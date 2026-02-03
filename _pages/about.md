@@ -28,9 +28,9 @@ His email addresses are [aaron.z.chiu@gmail.com](mailto:aaron.z.chiu@gmail.com) 
 Education
 ======
 * **[BSc.](https://fie.must.edu.mo/id-1439/program/view/id-211.html) in Computer Science**, [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) (Sep. 2023 - Present)
-  * **CGPA:** 3.73 / 4.00 (Top 5%)
+  * **CGPA:** 3.74 / 4.00 (Top 5%)
   * **2024-2025 GPA:** 3.85 / 4.00 (Rank: 14/429)
-  * **Selected Coursework:** Object-Oriented Programming (A+), Web Technologies (A+), Digital Logic (A+), Physics (A+), Probabilities and Statistics (A+), Data Structures (A), Calculus Ⅲ (A-), Computer Organization (A-).
+  * **Selected Coursework:** Numerical Computation (A+), Probability and Statistics (A+), Object-Oriented Programming (A+), Data Structures (A), Operating Systems (A), Computer Networks I (A), Digital Logic (A+), Computer Organization (A-), Web Technologies (A+).
 
 Research Experience
 ======
