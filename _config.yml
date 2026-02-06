@@ -38,8 +38,8 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-1123-2986"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Zecheng-Qiu-2?ev=hdr_xprf"# URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Zecheng-Qiu-2?ev=hdr_xprf"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=60349805400"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

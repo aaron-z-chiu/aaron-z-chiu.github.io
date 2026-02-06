@@ -10,7 +10,7 @@ location: "Macau S.A.R."
 
 The PF-CFD (Phase-Field Computational Fluid Dynamics) Team is led by Prof. Junxiang Yang, an assistant professor at M.U.S.T. The team aims to develop high-performance mathematical models and computational algorithms in science and engineering.
 
-Here, Qiu has been participating in 2 research projects, his researches are mainly focused on **Biological Modeling & Simulation** and **Phase-field Method**.
+Within this team, Qiu has been participating in 3 research projects focused on **Computational Fluid Dynamics (CFD)** and **Applied Mathematics**. His specific research interests include **Biological Modeling**, **Phase-field Method**, and **Numerical Algorithms** for multiphase flows in complex geometries.
 
 **Publications at this team:**
 

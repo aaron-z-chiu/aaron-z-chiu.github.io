@@ -17,6 +17,6 @@ citation: '<b>Z. Qiu</b>, Y. Wu, J. Yang, Semi-implicit ADI operator-splitting m
 This paper presents a novel numerical framework for modeling curvature-dependent tissue growth on complex scaffolds. It is currently Under Review at *Computer Methods in Applied Mechanics and Engineering (CMAME)*.
 
 **Main Contributions:**
-* Developed a proprietary C++ simulation framework from the ground up, implementing a novel Implicit ADI scheme to overcome the stability bottlenecks of traditional explicit methods. 
-* Achieved second-order temporal accuracy, enabling high-fidelity long-term simulations that were previously infeasible.
-* Extended the theoretical model from 2D surfaces to 3D volumetric geometries, enabling precise prediction of tissue evolution in realistic porous structures.
+* Developed and open-sourced a C++ simulation framework implementing a stabilized semi-implicit ADI operator-splitting solver, addressing the stability constraints of traditional explicit time-stepping.
+* Achieved second-order temporal accuracy, enabling reliable long-time simulations with improved accuracy–cost balance.
+* Extended the baseline 2D formulation to 3D volumetric geometries and implemented the corresponding solver pipeline, supporting simulations in realistic porous/scaffold-like structures.

@@ -18,10 +18,16 @@ This paper presents a three-dimensional multi-phase-field vesicles model and dis
 
 **[Free Access]** Elsevier provides 50 days of free access to the paper. You can download the full paper **for free** via [this link](https://authors.elsevier.com/c/1mWXh2OInzQhY) (**valid until March 19, 2026**).
 
-**Main Contributions:**
-* Implemented a hybrid numerical solver for 3D fluid vesicle dynamics in C++, integrating phase-field models into an existing simulation framework.
-* Applied a semi-implicit finite difference scheme to evolve phase-field equations, ensuring rigorous numerical stability and energy conservation.
-* Optimized memory management and data storage strategies, significantly reducing computational overhead for multi-vesicle interaction simulations.
+**Highlights:**
+* New phase-field model is developed for multiple vesicles.
+* The model satisfies the global constraints preserving properties.
+* A practical and easy finite difference method is presented.
+* The simulation code is shared for the interested readers.
+
+**Role & Responsibilities:**
+* **Engineered the Core Solver:** Developed a high-performance C++ numerical solver from scratch, successfully implementing a semi-implicit finite difference scheme for 3D vesicle dynamics.
+* **Validated Model Fidelity:** Performed extensive sensitivity analysis and parameter tuning, ensuring the simulation strictly adhered to energy conservation laws and global constraints.
+* **Delivered Research Impact:** Co-authored the published manuscript and managed the open-source code release, ensuring high reproducibility through detailed documentation and build automation.
 
 <table style="border: none; width: 100%; margin-top: 20px;">
   <tr style="border: none;">
