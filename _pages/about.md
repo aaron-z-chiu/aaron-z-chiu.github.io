@@ -43,6 +43,8 @@ Focused on **Conversational Text-to-Trajectory Visualization (Text2Traj)** using
 * **Semantic Reasoning:** Implemented an LLM-based semantic reasoning layer to autonomously detect and resolve query ambiguities (e.g., spatial granularity conflicts, underspecified visualization types) and identify unanswerable requests.
 * **Benchmark Construction:** Constructed a large-scale benchmark dataset containing adversarial examples to evaluate the robustness of LLMs in handling spatial constraints and administrative boundary logic.
 
+*This work was selected for presentation at the seminar with Visiting Prof. [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/) (HKUST).*
+
 ### [PF-CFD Team (Prof. Junxiang Yang)](https://zecqiu.com/research/JXYang)
 *Research Assistant (Feb. 2024 – Present)*
 
