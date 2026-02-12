@@ -63,9 +63,9 @@ Publications
 Academic Services
 ======
 * **External Reviewer**, IEEE International Conference on Data Engineering (ICDE) 2026.
-    * Review submissions related to DB4AI and LLM Agent Memory Systems.
+    * Invited by Prof. Victor Junqiu Wei to review submissions related to DB4AI and LLM Agent Memory Systems.
 * **Student Representative**, HKIE Accreditation Interview Panel.
-    * Supported the validation of the BSc in Computer Science program during the accreditation interview.
+    * Served as one of the student representatives during the HKIE accreditation interview to support the validation of the BSc in Computer Science program.
 
 Internship
 ======
