@@ -62,6 +62,8 @@ Publications
 
 Academic Services
 ======
+* **Secondary Reviewer**, ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) 2026
+    * Invited by Prof. Victor Junqiu Wei to review a submission related to automated visualization and visual analytics.
 * **External Reviewer**, IEEE International Conference on Data Engineering (ICDE) 2026.
     * Invited by Prof. Victor Junqiu Wei to review submissions related to DB4AI and LLM Agent Memory Systems.
 * **Student Representative**, HKIE Accreditation Interview Panel.
