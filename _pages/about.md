@@ -83,13 +83,13 @@ Awards & Scholarship
 Skills
 ======
 
-**Languages**
-* **English:** Full Professional Proficiency (IELTS 7.0)
-* **Mandarin:** Native Proficiency (National Putonghua Proficiency Test 2-A)
-
 **Technical Skills**
 * **Programming:** C/C++ (High Proficiency), Python, SQL (PostgreSQL), Java, RISC-V Assembly, HTML/CSS/JS.
 * **Tools & Frameworks:** PyTorch, PostGIS, MATLAB, Docker, Linux, Git, LaTeX, Visual Studio Code.
+
+**Languages**
+* **English:** Full Professional Proficiency (IELTS 7.0)
+* **Mandarin:** Native Proficiency (National Putonghua Proficiency Test 2-A)
 
 Extracurricular Courses
 ======
