@@ -55,19 +55,19 @@ layout: default
           {% assign has_prev = false %}
 
           {% if page.paperurl %}
-            <a href="{{ page.paperurl }}">Download Paper</a>
+            <a href="{{ page.paperurl }}" target="_blank" rel="noopener noreferrer">Download Paper</a>
             {% assign has_prev = true %}
           {% endif %}
 
           {% if page.slidesurl %}
             {% if has_prev %} | {% endif %}
-            <a href="{{ page.slidesurl }}">Download Slides</a>
+            <a href="{{ page.slidesurl }}" target="_blank" rel="noopener noreferrer">Download Slides</a>
             {% assign has_prev = true %}
           {% endif %}
 
           {% if page.codeurl %}
             {% if has_prev %} | {% endif %}
-            <a href="{{ page.codeurl }}">Download Code</a>
+            <a href="{{ page.codeurl }}" target="_blank" rel="noopener noreferrer">Download Code</a>
           {% endif %}
         </p>
 

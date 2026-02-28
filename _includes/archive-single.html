@@ -60,19 +60,19 @@
       {% assign has_prev = false %}
 
       {% if post.paperurl %}
-        <a href="{{ post.paperurl }}">Download Paper</a>
+        <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">Download Paper</a>
         {% assign has_prev = true %}
       {% endif %}
 
       {% if post.slidesurl %}
         {% if has_prev %} | {% endif %}
-        <a href="{{ post.slidesurl }}">Download Slides</a>
+        <a href="{{ post.slidesurl }}" target="_blank" rel="noopener noreferrer">Download Slides</a>
         {% assign has_prev = true %}
       {% endif %}
 
       {% if post.codeurl %}
         {% if has_prev %} | {% endif %}
-        <a href="{{ post.codeurl }}">Download Code</a>
+        <a href="{{ post.codeurl }}" target="_blank" rel="noopener noreferrer">Download Code</a>
       {% endif %}
     </p>
 
