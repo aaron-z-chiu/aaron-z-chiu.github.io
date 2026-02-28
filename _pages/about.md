@@ -88,7 +88,7 @@ Skills
 * **Tools & Frameworks:** PyTorch, PostGIS, MATLAB, Docker, Linux, Git, LaTeX, Visual Studio Code.
 
 **Languages**
-* **English:** Full Professional Proficiency (IELTS 7.0)
+* **English:** Full Professional Proficiency (IELTS 7.0; CET-6 601)
 * **Mandarin:** Native Proficiency (National Putonghua Proficiency Test 2-A)
 
 Extracurricular Courses
