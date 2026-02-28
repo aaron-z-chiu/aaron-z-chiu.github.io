@@ -25,7 +25,8 @@ Within this team, Qiu has been participating in 3 research projects focused on *
 </figure>
 
 **Relevant URLs:**
-* [PF-CFD Team's Homepage](https://cfdyang521.github.io)
-* [Prof. Yang's introduction page in the M.U.S.T official website](https://fie.must.edu.mo/id-1444/person/view/id-1476.html)
+
+* <a href="https://cfdyang521.github.io" target="_blank" rel="noopener noreferrer">PF-CFD Team's Homepage</a>
+* <a href="https://fie.must.edu.mo/id-1444/person/view/id-1476.html" target="_blank" rel="noopener noreferrer">Prof. Yang's introduction page in the M.U.S.T official website</a>
 
 

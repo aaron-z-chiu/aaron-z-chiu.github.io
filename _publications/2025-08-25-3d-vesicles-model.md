@@ -16,7 +16,7 @@ citation: 'Y. Wu, <b>Z. Qiu</b>, J. Yang, A three-dimensional multi-phase-field 
 
 This paper presents a three-dimensional multi-phase-field vesicles model and discusses its practical finite difference solver. It is currently published in Computer Physics Communications (CPC).
 
-**[Free Access]** Elsevier provides 50 days of free access to the paper. You can download the full paper **for free** via [this link](https://authors.elsevier.com/c/1mWXh2OInzQhY) (**valid until March 19, 2026**).
+**[Free Access]** Elsevier provides 50 days of free access to the paper. You can download the full paper **for free** via <a href="https://authors.elsevier.com/c/1mWXh2OInzQhY" target="_blank" rel="noopener noreferrer">this link</a> (**valid until March 19, 2026**).
 
 **Highlights:**
 * New phase-field model is developed for multiple vesicles.
