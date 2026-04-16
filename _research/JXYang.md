@@ -14,7 +14,7 @@ Within this team, Qiu has been participating in 3 research projects focused on *
 
 **Publications at this team:**
 
-* [<b>Z. Qiu</b>, Y. Wu, Y. Li, J. Yang, Semi-implicit ADI operator-splitting method with Richardson extrapolation for the phase-field model of curvature-dependent tissue growth on surfaces, Submitted to Journal of Computational Physics (Under Review).](https://zecqiu.com/publication/2026-03-13-tissue-growth)
+* [<b>Z. Qiu</b>, Y. Wu, Y. Li, J. Yang, Phase-field modeling and simulation of two- and three-dimensional curvature-dependent tissue growth on surfaces, Submitted to Physica D: Nonlinear Phenomena (Under Review).](https://zecqiu.com/publication/2026-03-13-tissue-growth)
 * [Y. Wu, <b>Z. Qiu</b>, J. Yang, A three-dimensional multi-phase-field vesicles model and its practical finite difference solver, Computer Physics Communications 321 (2026) 110053.](https://zecqiu.com/publication/2025-08-25-3d-vesicles-model)
 
 <figure style="text-align: center; margin-top: 20px;">
