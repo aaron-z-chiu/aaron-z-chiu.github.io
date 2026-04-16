@@ -22,7 +22,7 @@ Education
 ======
 * [BSc.](https://fie.must.edu.mo/id-1439/program/view/id-211.html) in Computer Science, [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US), 2026 (Expected)
 
-Affiliated Research Teams
+Research Experience
 ======
   <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
